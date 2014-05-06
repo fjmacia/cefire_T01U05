@@ -1,3 +1,4 @@
 teclado
 ratón
 disco duro
+memoria RAM
